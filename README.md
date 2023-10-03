@@ -5,11 +5,6 @@ This project is centered around creating a simplistic "Tar Heel" shell interface
 
 This project entails the construction of a simplified "Tar Heel" shell interface which is aimed at executing basic system operations and changing directories. It presents an engaging venture into system-level programming, offering a practical exploration of system-related library functions. Through this project, you'll gain a sense of achievement as you realize the potential to build a fundamental tool you interact with regularly.
 
-#### Background Reading
-- Explore Kris Jordan's [Learn a CLI chapter 2: Directories, Files, and Paths](https://example.com/kris-jordan-cli) focusing on sections 2.1 and 2.2.
-- Delve into Arpaci-Dusseau's [Operating Systems: Three Easy Pieces](https://example.com/operating-systems) textbook, specifically [Chapter 5](https://example.com/chapter-5).
-- Review the [Process API documentation](https://example.com/process-api).
-
 ## Project Structure
 The project comprises four integral files:
 * `Makefile`- houses information for compiling your program with the `make` command. **Modifications not recommended.**
