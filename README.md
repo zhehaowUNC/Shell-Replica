@@ -3,7 +3,7 @@ This project is centered around creating a simplistic "Tar Heel" shell interface
 
 # Tar Heel Shell Development Project
 
-This project entails the construction of a simplified "Tar Heel" shell interface which is aimed at executing basic system operations and changing directories. It presents an engaging venture into system-level programming, offering a practical exploration of system-related library functions. Through this project, you'll gain a sense of achievement as you realize the potential to build a fundamental tool you interact with regularly.
+This project entails the construction of a simplified "Tar Heel" shell interface which is aimed at executing basic system operations and changing directories. It presents an engaging venture into system-level programming, offering a practical exploration of system-related library functions.
 
 ## Project Structure
 The project comprises four integral files:
